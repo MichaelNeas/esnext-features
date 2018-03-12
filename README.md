@@ -10,3 +10,5 @@
 - [ES8 on Medium](https://hackernoon.com/es8-was-released-and-here-are-its-main-new-features-ee9c394adf66)
 - [Bring your js to the future](https://github.com/esnext/esnext)
 - [2ality](http://2ality.com/2017/02/ecmascript-2018.html)
+- [Pipeline operator](https://github.com/tc39/proposal-pipeline-operator)
+- [MDN js resources](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources)
