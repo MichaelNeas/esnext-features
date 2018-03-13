@@ -12,3 +12,5 @@
 - [2ality](http://2ality.com/2017/02/ecmascript-2018.html)
 - [Pipeline operator](https://github.com/tc39/proposal-pipeline-operator)
 - [MDN js resources](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources)
+- [tc39](https://github.com/tc39)
+- [ecma spec](https://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf)
